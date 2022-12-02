@@ -1,5 +1,5 @@
 # Codewars
-LINK DEL REPOSITORIO: 
+LINK DEL REPOSITORIO: https://github.com/mgonzalz/codewars.git
 
 Resolución de 6 problemas seleccionados de los propuestos:
 - https://www.codewars.com/kata/6387ea2cf418c41d277f3ffa
